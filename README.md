@@ -1,3 +1,6 @@
-# LAGRANGEPROG
+#PROGRAMS FOR NUMERICAL METHODS
 
--a simple program for Lagrange (central, forward and backward difference) 
+- Lagrange
+- Newton’s Advancing Formula
+- Anti-differencing
+
